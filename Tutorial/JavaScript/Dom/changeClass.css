@@ -1,0 +1,11 @@
+.green{
+    padding: 10px;
+    color: green;
+    border: 1px dotted green;
+}
+
+.red{
+    padding: 10px;
+    color: red;
+    border: 1px solid green;
+}
