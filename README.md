@@ -5,7 +5,7 @@ This repository contains backups of my personal projects developed prior to 2025
 ## Included Projects
 
 - **LeetTrader**  
-  A full-stack MERN application that simulates stock trading. Built to practice real-time interactions, user authentication, and trade management.
+  A full-stack MERN application that simulates stock trading. Built to practice real-time stock trading.
 
 - **Japanese_Learning_IOS_App**  
   An iOS application designed to help users learn Japanese through interactive vocabulary and grammar exercises.
