@@ -1,0 +1,17 @@
+Breakfast.朝食.ちょうしょく
+Lunch.昼食.ちゅうしょく
+Dinner.夕食.ゆうしょく
+Rice.ご飯.ごはん
+Tea.お茶.おちゃ
+Vegetables.野菜.やさい
+Meat.肉.にく
+Beef.牛肉.ぎゅうにく
+Pork.豚肉.ぶたにく
+Chicken wing.手羽先.でばさき
+Sushi.寿司.すし
+Drinks.飲み物.のみもの
+Alcohol.お酒.おさけ
+Water.水.みず
+Milk.牛乳.ぎゅうにゅう
+Fruit.果物.くだもの
+Apple.林檎.リンゴ

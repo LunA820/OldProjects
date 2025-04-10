@@ -1,0 +1,18 @@
+Living room.居間.いま
+Bedroom.寝室.しんしつ
+Kitchen.台所.だいどころ
+Room.部屋.へや
+Restroom.お手洗い.おてあらい
+Bathroom.風呂.ふろ
+Corridor.廊下.ろうか
+Vase.花瓶.かびん
+Cupboard.食器棚.しょっきたな
+Desk.机.つくえ
+Chair.椅子.いす
+Household appliances.家電製品.かでんせいひん
+Rice cooker.炊飯器.すいはんき
+Microwave oven.電磁レンジ.でんじれんじ
+Washing machine.洗濯機.せんたっき
+Rubbish bin.ゴミ箱.ゴミばこ
+Garden.庭.にわ
+Stairs.階段.かいだん

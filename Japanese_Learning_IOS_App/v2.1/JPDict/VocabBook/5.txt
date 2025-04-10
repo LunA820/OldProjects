@@ -1,0 +1,25 @@
+Money.お金.おかね
+Wallet.財布.さいふ
+Watch.時計.とけ
+Glasses.眼鏡.メガネ
+Shoes.靴.くつ
+Socks.靴下.くつした
+Clothes.服.ふく
+Mobile phone.携帯電話.けいたいでんわ
+Book.本.ほん
+Mirror.鏡.かがみ
+Pencil.鉛筆.えんぴつ
+Eraser.消しゴム.けしゴム
+Paper.紙.かみ
+Bag.鞄.カバン
+Musical instrument.楽器.がっき
+Calculator.電卓.でんたく
+Gift.贈り物.おくりもの
+ID card.身分証.みぶんしょう
+Medicine.薬.くすり
+Luggage.荷物.にもつ
+Plastic bag.ビニル袋.ビニルぶくろ
+Newspaper.新聞紙.しんぶんし
+Song.歌.うた
+Ticket.切符.きっぷ
+Picture/Painting.絵.え

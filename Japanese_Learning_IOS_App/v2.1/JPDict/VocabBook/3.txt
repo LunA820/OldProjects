@@ -1,0 +1,25 @@
+Above.上.うえ
+Below.下.した
+Left.左.ひだり
+Right.右.みぎ
+Front.前.まえ
+Behind/Back.後ろ.うしろ
+Left side.左側.ひだりがわ
+Middle.中.なか
+Right side.右側.みぎがわ
+Inside.中.なか
+Outside.外.そと
+Beside.隣.となり
+Between.間.まで
+East.東.あずま
+South.南.みなみ
+West.西.にし
+North.北.きた
+North-east.東北.とうほく
+South-east.東南.とうなん
+South-west.西南.せいなん
+North-east.西北.せいほく
+Exit.出口.でぐち
+Entrance.入り口.いりくち
+Map.地図.ちず
+Height.高さ.たかさ

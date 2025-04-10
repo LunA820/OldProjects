@@ -1,0 +1,16 @@
+Car.車.くるま
+Train.列車.れっしゃ
+Airplane.飛行機.ひこうき
+Bike.自転車.じてんしゃ
+Ship.船.ふね
+Traffic light.信号機.しんごうき
+Traffic jam.交通渋滞.こうつうじゅうたい
+Car accident.交通事故.こうつうじこ
+Public transport.公共交通機関.こうきょうこうつうきかん
+Submarine.潜水艦.せんすいかん
+Harbor.港.みなと
+Road sign.道路標示.どうろひょうじ
+Underground train.地下鉄.ちかてつ
+Wheels.車輪.シャリン
+Air ticket.航空券.こうくうけん
+Traffic fee.交通費.こうつうひ

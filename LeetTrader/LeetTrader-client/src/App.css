@@ -1,0 +1,17 @@
+.App{
+  background-image: url("./assets/lt-bg_1.jpg");
+  background-size: cover;
+  min-height: 100vh;
+}
+
+footer{
+  color: white;
+  text-align: center;
+  padding-top: 8px;
+  background-color: rgba(40, 40, 40, 0.7);
+  min-height: 7vh;
+}
+
+.neg{color: red}
+
+.pos{color: greenyellow}

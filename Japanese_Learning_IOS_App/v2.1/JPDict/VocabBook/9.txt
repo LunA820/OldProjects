@@ -1,0 +1,25 @@
+Eye.目.め
+Ear.耳.みみ
+Mouth.口.ぐち
+Nose.鼻.はな
+Head.頭.あたま
+Arm.腕.うで
+Leg/Feet.足.あし
+Hand.手.て
+Finger.指.ゆび
+Elbow.肘.ひじ
+Knee.膝.ひざ
+Brain.脳.のう
+Heart.心臓.しんぞう
+Liver.肝.かん
+Lung.肺.はい
+Stomach.胃.い
+Large intestine.大腸.だいちょう
+Small intestine.小腸.しょうちょう
+Bone.骨.ほね
+Chest.胸.むね
+Shoulder.肩.かた
+Hair.髪.かみ
+Skin.皮膚.ひふ
+Muscle.筋肉.キン肉
+Tears.涙.なみだ

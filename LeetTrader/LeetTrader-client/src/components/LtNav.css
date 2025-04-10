@@ -1,0 +1,17 @@
+
+.homeNavbar{
+  padding: 5px 60px 5px 60px;
+  display: grid;
+  grid-template-columns: 9fr 1fr;
+  height: 10vh;
+  margin-bottom: 40px;
+}
+
+.navBrand{
+  font-size: 23px;
+}
+
+.navItems{
+  text-align: right;
+  font-size: 17px;
+}

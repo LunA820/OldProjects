@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19E287" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Custom" representedClassName="Custom" syncable="YES" codeGenerationType="class">
+        <attribute name="english" optional="YES" attributeType="String" defaultValueString="-1"/>
+        <attribute name="hiragana" optional="YES" attributeType="String"/>
+        <attribute name="kanji" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="ProgressRecords" representedClassName="ProgressRecords" syncable="YES" codeGenerationType="class">
+        <attribute name="progress" optional="YES" attributeType="String" defaultValueString="NA"/>
+        <attribute name="unit" optional="YES" attributeType="String" defaultValueString="&quot;0&quot;"/>
+    </entity>
+    <elements>
+        <element name="ProgressRecords" positionX="-9" positionY="36" width="128" height="73"/>
+        <element name="Custom" positionX="-9" positionY="54" width="128" height="88"/>
+    </elements>
+</model>

@@ -1,0 +1,21 @@
+.searchBar{
+  display: grid;
+  grid-template-columns: 2.5fr 1fr;
+}
+
+.stockCard{
+  width: 30vw;
+  min-width: 300px;
+  min-height: 70vh;
+  margin-bottom: 35px;
+  background-color: rgba(200, 200, 200, 0.45);
+}
+
+.searchTxt{
+  text-align: left;
+  color: orange
+}
+
+.priceChange{
+  text-align: center;
+}

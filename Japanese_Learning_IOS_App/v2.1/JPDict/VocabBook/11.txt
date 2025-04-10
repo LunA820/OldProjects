@@ -1,0 +1,25 @@
+Land.陸.りく
+Ocean.海.うみ
+Sky.空.そら
+Space.宇宙.うちゅう
+Mountain.山.やま
+River.川.かわ
+Lake.湖.みずうみ
+Wind.風.かぜ
+Light.光.ひかり
+Force / Power.力.ちから
+Earth.地球.ちきゅう
+Moon.月.つき
+Sun.太陽.たいよう
+Spring.春.はる
+Summer.夏.なつ
+Autumn.秋.あき
+Winter.冬.ふゆ
+Rain.雨.あめ
+Cloud.雲.くも
+Snow.雪.ゆき
+Temperature.温度.おんど
+Humidity.湿度.しつど
+Air.空気.くうき
+Electricity.電気.でんき
+Sound.音.おと

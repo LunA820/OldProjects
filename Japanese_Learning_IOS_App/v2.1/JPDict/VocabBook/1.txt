@@ -1,0 +1,16 @@
+Home.家.いえ
+Shop.店.みせ
+Road.道.みち
+Station.駅.えき
+Bank.銀行.ぎんこ
+Cinema.映画館.えいがかん
+Company.会社.かいしゃ
+Hospital.病院.びょういん
+Post office.郵便局.ゆうびんきょく
+Carpark.駐車場.ちゅうしゃじょう
+Park.公園.こうえん
+Stadium.体育館.たいいくかん
+Barbershop.理髪店.りはつてん
+Embassy.大使館.たいしかん
+Dining Hall.食堂.しょくどう
+Library.図書館.としょかん

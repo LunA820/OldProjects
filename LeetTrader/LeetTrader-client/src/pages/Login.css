@@ -1,0 +1,50 @@
+.Auth{
+  min-height: 75vh;
+}
+
+.loginPage{
+  display: flex;
+  flex-wrap: wrap-reverse;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(6px + 2.5vmin);
+  padding-left: 5vw;
+  padding-right: 5vw;
+  margin-top: 8vh;
+}
+
+.logJumb{
+  width: 600px;
+  min-height: 55vh;
+  padding: 30px;
+  background-color: rgba(30, 30, 30, 0.7);
+  color: white;
+  font-size: 20px;
+  line-height: 35px;
+  border-radius: 5%;
+}
+
+.loginForm{
+  width: 400px;
+  background-color: rgba(230, 230, 230, 0.7);
+  color: black;
+  border-radius: 5%;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.rBadge{
+  background-color: green;
+}
+
+.invalidLoginAlert{
+  margin-top: 20px;
+  font-size: 15px;
+}
+.authButtons{
+  text-align: center;
+}
+
+.authBtn{
+  width: 100px;
+}

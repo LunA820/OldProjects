@@ -1,0 +1,23 @@
+Father.お父さん.おとうさん
+Mother.お母さん.おかあさん
+Elder brother.お兄さん.おにいさん
+Little brother.弟.おとうと
+Elder sister.お姉ちゃん.おねえさん
+Little sister.妹.いもうと
+Grandfather.お爺さん.おじいさん
+Grandmother.お婆さん.おばあちゃん
+Friend.友達.ともだち
+Girlfriend.彼女だ.かのじょ
+Boyfriend.彼氏.かれし
+Husband.夫.おっと
+Wife.妻.つま
+Son.息子.むすこ
+Daughter.娘.むすめ
+Uncle.叔父.おじ
+Aunt.叔母.おば
+Nephew.甥.おい
+Colleague/Coworker.同僚.どうりょう
+Employer.雇用者.こようしゃ
+Employee.社員.しゃいん
+Family.家族.かぞく
+Student.生徒.せいと

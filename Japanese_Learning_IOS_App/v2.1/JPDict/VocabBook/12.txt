@@ -1,0 +1,16 @@
+Reason.原因.げんいん
+Result.結果.けっか
+Possibility.可能性.かのうせい
+Meeting.会議.かいぎ
+Practice.練習.れんしゅう
+Match.試合.しあい
+Activity.活動.かつどう
+Plan.計画.けいかく
+Proposal.提案.ていあん
+Sickness.病気.びょうき
+Exam.試験.しけん
+Protest.抗議.こうぎ
+Surgery.手術.しゅじゅつ
+Success.成功.せいこう
+Failure.失敗.しっぱい
+Birthday.お誕生日.おたんじょうび
